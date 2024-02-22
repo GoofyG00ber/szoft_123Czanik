@@ -20,6 +20,8 @@ namespace Fibonacci
                 Button button = new Button();
                 button.Size = new Size(ujSor.Érték, ujSor.Érték);
 
+
+                //elég fibonált ugymond
             }
             dataGridView1.DataSource = sorok;
 
