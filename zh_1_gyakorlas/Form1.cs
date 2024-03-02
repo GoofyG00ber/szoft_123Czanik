@@ -15,7 +15,7 @@ namespace zh_1_gyakorlas
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Size = new Size(800,600);
+            Size = new Size(1000, 800);
 
             for (int sor = 0; sor < 6; sor++)
             {
@@ -23,7 +23,7 @@ namespace zh_1_gyakorlas
                 {
                     if ((sor + oszlop) % 2 == 0)
                     {
-                        Button b = new Button();
+                        ValtoGomb b = new ValtoGomb();
                         b.Width = 100;
                         b.Height = 100;
 
@@ -34,12 +34,20 @@ namespace zh_1_gyakorlas
                         b.Text = b.Location.ToString();
 
                         Controls.Add(b);
-                        b.BackColor = Color.Black;
                     }
-                    
+
                 }
             }
 
+
+
+
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label1.Visible = !label1.Visible;
         }
     }
 }

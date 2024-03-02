@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _3.hét
+﻿namespace _3.hét
 {
     internal class SzamoloGomb : VillogoGomb
     {
@@ -23,7 +17,7 @@ namespace _3.hét
             }
             else
             {
-                BackColor = Color.FromArgb(i*40,60,140);
+                BackColor = Color.FromArgb(i * 40, 60, 140);
                 i++;
                 Text = i.ToString();
             }

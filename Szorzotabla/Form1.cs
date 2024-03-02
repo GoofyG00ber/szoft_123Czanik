@@ -21,7 +21,7 @@ namespace Szorzotabla
                     button.Height = 40;
                     button.Width = 40;
 
-                    button.BackColor = Color.FromArgb(sor*10,oszlop*10,140);
+                    button.BackColor = Color.FromArgb(sor * 10, oszlop * 10, 140);
 
                     Controls.Add(button);
                 }
