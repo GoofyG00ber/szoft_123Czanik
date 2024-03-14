@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zh_1_gyakorlas", "zh_1_gyak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Just_Console_Stuff", "Just_Console_Stuff\Just_Console_Stuff.csproj", "{C6295102-C41B-46E3-82F0-189474D6EE7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing", "Listing\Listing.csproj", "{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing", "Listing\Listing.csproj", "{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajosTeszt", "..\..\..\..\Downloads\c sarp mókolás\HajosTeszt\HajosTeszt.csproj", "{CEA57683-AC22-4F0B-878D-FD8F6BAFB922}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA57683-AC22-4F0B-878D-FD8F6BAFB922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA57683-AC22-4F0B-878D-FD8F6BAFB922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA57683-AC22-4F0B-878D-FD8F6BAFB922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA57683-AC22-4F0B-878D-FD8F6BAFB922}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
