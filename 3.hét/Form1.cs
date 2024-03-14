@@ -11,7 +11,7 @@ namespace _3.hét
         {
             int meret = 36;
 
-            Size = new Size(meret*21, meret * 22);
+            Size = new Size(meret * 21, meret * 22);
 
             for (int sor = 0; sor < 20; sor++)
             {

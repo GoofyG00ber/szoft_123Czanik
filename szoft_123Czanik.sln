@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csproj", "{392F7EEB-1288-46AA-BD46-F0BD0EBAB21B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.hét", "3.hét\3.hét.csproj", "{9BC44170-2E07-4AD5-A884-CE6C2C782A74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.hét", "3.hét\3.hét.csproj", "{9BC44170-2E07-4AD5-A884-CE6C2C782A74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zh_1_gyakorlas", "zh_1_gyakorlas\zh_1_gyakorlas.csproj", "{19E86AB9-DDE6-4F85-AF01-90A7BC488B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Just_Console_Stuff", "Just_Console_Stuff\Just_Console_Stuff.csproj", "{C6295102-C41B-46E3-82F0-189474D6EE7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing", "Listing\Listing.csproj", "{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{9BC44170-2E07-4AD5-A884-CE6C2C782A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BC44170-2E07-4AD5-A884-CE6C2C782A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BC44170-2E07-4AD5-A884-CE6C2C782A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E86AB9-DDE6-4F85-AF01-90A7BC488B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E86AB9-DDE6-4F85-AF01-90A7BC488B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E86AB9-DDE6-4F85-AF01-90A7BC488B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E86AB9-DDE6-4F85-AF01-90A7BC488B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6295102-C41B-46E3-82F0-189474D6EE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6295102-C41B-46E3-82F0-189474D6EE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6295102-C41B-46E3-82F0-189474D6EE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6295102-C41B-46E3-82F0-189474D6EE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD7326F-BE53-439E-AC0C-81E2BD9C1736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
